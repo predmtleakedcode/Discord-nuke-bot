@@ -1,5 +1,5 @@
 # Discord-nuke-bot
-This discord nuke bot is using JS
+This discord nuke bot is using Node.js
 
 Code:
 
